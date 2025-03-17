@@ -1,0 +1,19 @@
+{
+    "categories": {
+        "0": "web scraping",
+        "1": "technical",
+        "2": "data (things)",
+        "3": "news",
+        "4": "productivity"
+    },
+    "data_tracked": false,
+    "demo_page": "https://rapidplugins-2.bubbleapps.io/version-test/websearch",
+    "description": "This plugin has been recently acquired by Zeroqode - please bear with us while we review the code and make improvements/fixes where necessary.\n\nThis Plugin makes use of the Contextual Web Search API:  https://serpstack.com/documentation \n\nThis Plugin allows you to create your own search engine from scratch or integrate a search functionality into one of your apps.\n\nYou can Sign Up for a free API Key via https://serper.dev/dashboard.\n\n[color=#0000ff][size=4]✨[b]FEATURES:[/b][/size][/color]\n\nOn version 1.4.0 - we changed the used API and added a few more API calls:\n\n- Video Search,\n- Image Search,\n- News Search,\n- Shopping Search,\n- Places Search\n\n👛 Please support our efforts to keep this plugin free—your donations help us invest the time and resources needed to continue maintaining and improving it for everyone's benefit:  [color=#1AAFD0][url=https://zeroqo.de/support]https://zeroqo.de/support[/color][/url].\n\nTo receive special offers and important updates please visit: https://zeroqo.de/updates\n\n🔔 Get our 15 Top Plugins Bundle with 15 most popular plugins for only 20$/month.\nPlugins included in the Bundle:\n\n- Bubble Page to PDF converter\n- Stripe Marketplace Express\n- Air Calendar (Full Calendar 5.9.0)\n- AWS File uploader - Any size\n- Advanced Rich Text Editor\n- Mapbox Map\n- Phone Input Number with Formatting\n- Advanced Multi Uploader\n- Video Player\n- Dynamic Height & Width of Elements\n- Audio Recorder\n- Repeating Group to CSV\n- Print Pro\n- Advanced Audio Player\n- Easy File Downloader\n\nGet it here: https://zeroqode.com/bundle\n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://dev.zeroqode.com\n\nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com",
+    "image": "//s3.amazonaws.com/appforest_uf/f1546767272631x721096169740483500/baseline_search_black_48dp.png",
+    "instructions": "",
+    "license": "open_source",
+    "link": "https://docs.zeroqode.com/plugins/web-search",
+    "name": "Web Search",
+    "plugin_instructions": "Please refer to the plugin documentation to see how to configure it: https://docs.zeroqode.com/plugins/web-search",
+    "sa_node_version": 18
+}
